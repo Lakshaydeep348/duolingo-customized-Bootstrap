@@ -1,0 +1,37 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+html
+{
+    font-family: sans-serif !important;
+}
+body
+{
+    background-color:#235390 ;
+    color: #58cc02;
+}
+.list
+{
+    display: flex;
+}
+.list .li
+{
+    margin: 0 5vw;
+}
+.lang button{
+    background-color: #235390;
+    color: #ffffff;
+    border: none;
+    padding: 1vh 1vw;
+}
+
+.login button{
+    width: 20vw;
+    margin-left: 10vw;
+    color: #ffffff;
+    font-weight: bold;
+    margin-top: 2vh;
+    border-radius: 7%;
+}
